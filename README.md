@@ -1,0 +1,1 @@
+# PureCookieConsent.js
