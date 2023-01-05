@@ -17,7 +17,7 @@ const PureCookieConsent = {
       'position': 'fixed',
       'left': '0',
       'bottom': '0',
-      'padding': '10px 15px',
+      'padding': '15px',
       'background-color': '#ecf0f1',
       'color': '#5c6d7e',
       'font-family': '-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"',
@@ -30,10 +30,11 @@ const PureCookieConsent = {
     },
     styleBtn: {
       'border': '0',
-      'padding': '4px 6px',
+      'padding': '6px 10px',
       'background-color': '#5c6d7e',
       'color': '#fff',
       'cursor': 'pointer',
+      'font-size': '15px',
     },
   },
   show(){
